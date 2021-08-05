@@ -134,7 +134,7 @@
     .row.mb-5      
       .col-lg-6.col-sm-8.justify-content-around.align-items-center.img-c 
         figure.px-3.py-3
-            img.img-501.mb-2(src="@/assets/tema1/img-9.svg")
+            img.img-501.mb-2(src="@/assets/tema1/img-9.png")
       .col-lg-5.col-sm-8.justify-content-around.align-items-center.img-c.align-self-center 
         p.mb-5.text-bold Conocer el proceso de toma de decisiones permite determinar la importancia de la elección objetiva de una decisión, especialmente cuando se presentan situaciones críticas; es claro que este paso a paso no garantiza que no se cometan equivocaciones a la hora de tomar una decisión, pero sí permite minimizar el riesgo y mitigar el impacto.      
  

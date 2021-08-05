@@ -102,12 +102,13 @@
           .lista-ol--cuadro__vineta
             span d
           |   Analizar las causas y los efectos de las alternativas priorizadas y cómo estas influyen en la solución del problema u objetivo, para finalmente definir la alternativa a ejecutar.
-    .col-6.mb-5
-      a.anexo.mb-4(:href="obtenerLink('/downloads/ejemplo_lluvia_ideas.pdf')" target="_blank")
-        .anexo__icono
-          img(src="@/assets/template/icono-pdf.svg")
-        .anexo__texto
-          p #[strong Anexo.] Ver ejemplo aplicado sobre Lluvia de ideas
+    .row.justify-content-around.align-items-center
+      .col-6.mb-5
+        a.anexo.mb-4(:href="obtenerLink('/downloads/ejemplo_lluvia_ideas.pdf')" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p #[strong Anexo.] Ver ejemplo aplicado sobre Lluvia de ideas
 
     hr          
     #2.row.fond-1.p-5.mb-5
@@ -162,7 +163,7 @@
               p #[strong Anexo.] Ver ejemplo aplicado de diagrama Ishikawa
 
     hr.mb-5  
-    #3.row.fond-1.p-5.mb-5
+    #3.row.fond-1.px-5
       .anchorHeader
         .anchorHeader__body.justify-content-end
           .anchorHeader__btn
@@ -178,13 +179,13 @@
             figure
               img.mb-2(src="@/assets/tema2/img-10.svg")
 
-
-    .col-6.mb-5
-      a.anexo.mb-4(:href="obtenerLink('/downloads/ejemplo_FODA.pdf')" target="_blank")
-        .anexo__icono
-          img(src="@/assets/template/icono-pdf.svg")
-        .anexo__texto
-          p #[strong Anexo.] Ver ejemplo aplicado sobre Lluvia de ideas
+    .row.justify-content-around.align-items-center
+      .col-6.mb-5
+        a.anexo.mb-4(:href="obtenerLink('/downloads/ejemplo_FODA.pdf')" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p #[strong Anexo.] Ver ejemplo aplicado de Análisis FODA
 
     hr
     #4.row.fond-1.px-5.mb-5

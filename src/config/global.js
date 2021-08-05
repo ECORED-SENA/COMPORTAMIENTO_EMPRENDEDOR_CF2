@@ -33,13 +33,6 @@ export default {
         titulo: 'Análisis de alternativas y riesgos',
         desarrolloContenidos: true,
       },
-      {
-        nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
-        numero: '3',
-        titulo: 'Fundamentación Textil',
-        desarrolloContenidos: true,
-      },
     ],
     subMenu: [
       {
