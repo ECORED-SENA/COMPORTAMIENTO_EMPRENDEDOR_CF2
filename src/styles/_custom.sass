@@ -1,0 +1,265 @@
+.img-500
+    width: 500px !important
+    margin: auto 
+.img-400
+    width: 400px !important
+    margin: auto     
+.img-501
+    height: 500px !important
+    margin: auto     
+.img-150
+    height: 150px !important
+    margin: auto     
+.t-intro
+  background-color: #CEEEF1
+.fond1
+  background-color: #ECF9FA
+.fond2
+  background-color: #03484F
+  padding-top: 4rem!important
+  padding-bottom: 4rem!important
+.fond3
+  background-color: #419CA6 
+.fond4
+  background-color: #F6F6F6
+  border-radius: 20px   
+.tex-1  
+  color: #fff !important
+  text-align: center !important
+  font-weight: bold !important  
+.t-b-s
+    border-bottom-right-radius: 0px !important
+    border-bottom-left-radius: 0px !important   
+.t-b-i    
+  border-top-left-radius: 0px !important
+  border-top-right-radius: 0px !important
+.fond-des
+  background: linear-gradient(to bottom, #419CA6, #035159)
+$crd-icon-size: 120px
+$crd-padding: 1.5rem
+$crd-width: calc(100% - ((#{$crd-icon-size} / 2))
+  
+.crd_01 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center 
+  padding: 1.5rem 1.5rem 1.5rem 0   
+  z-index: 1
+  //background-color: pink
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+    background-color: #c9c9c9
+    border-radius: 15px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-icon-size
+    margin-right: 15px
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2  
+
+.crd_02 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center   
+  z-index: 1
+  
+  //background-color: pink
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+    background-color: #0E525A
+    border-radius: 50px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-icon-size
+    margin-right: 15px
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2    
+  
+.crd_03 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  padding: 1.5rem 1.5rem 1.5rem 0   
+  z-index: 1
+
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+   
+    border-radius: 15px
+    z-index: -1
+
+.l-n 
+  color: #F2884B
+.cc1
+  background-color: #F26D3D
+  border-radius: 60px
+  width: 60px
+  height: 60px
+  top: 25px
+  transform: translateX(-20%)
+.cc2
+  
+  border-radius: 60px
+  width: 60px
+  height: 60px
+  top: 25px
+  transform: translateX(-20%)
+.cc3
+  position: absolute
+  left: 50%
+  top: 50%
+  color: #ffffff
+  transform: translate(-50%,-50%)   
+.img-c // centrar imagenes
+  justify-content: center!important
+  display: block
+  margin: 0 auto
+
+.fondo-i
+  background-image: url(../assets/tema1/fnd-1.svg)
+  background-repeat: no-repeat
+  background-size: cover
+
+
+
+$anchorBtn_color: #E6F4FF
+$anchorBtn_number_cl: #77CFD9
+
+.anchorBtn 
+  position: relative 
+  display: flex
+  justify-content: start
+  align-items: center
+  height: 75px
+  background-color: $anchorBtn_color
+  margin-right: 2rem
+  margin-bottom: 3rem
+  
+  &::before 
+    content: ""
+    top: 0
+    right: -30px
+    position: absolute
+    border-top: 37px solid transparent
+    border-bottom: 37px solid transparent 
+    border-left: 30px solid $anchorBtn_color
+
+  
+  a 
+    position: relative
+    display: flex
+    justify-content: start
+    align-items: center
+    width: 100%
+    height: 100%
+    padding: 0rem 0rem 0rem 3rem 
+    color: #12263f !important   
+    .anchorBtn__tag      
+      position: absolute         
+      top: -15px
+      left: -15px
+      display: inline-block  
+      //padding: 0.7rem 0.5rem;
+      background-color: #77CFD9
+      .anchorBtn__number 
+        position: relative
+        width: 50px        
+        h3 
+          padding: 0.7rem 0                         
+          margin-bottom: 0 !important
+          color: white
+          font-weight: 700
+          font-size: 20pt     
+          text-align: center
+ 
+    .anchorBtn__number::before 
+      content: ""
+      position: absolute
+      top: 54px
+      left: 1px
+      width: 0
+      height: 0
+      border-left: 15px solid transparent    
+      border-top: 15px solid lighten($anchorBtn_number_cl, 30%)       
+          
+    .anchorBtn__body 
+      p 
+        margin-bottom: 0 !important
+.anchorHeader 
+  position: relative
+  &__number 
+    position: absolute
+    top: -15px
+    left: -15px
+    display: inline-block  
+    padding: 0.7rem 1rem
+    background-color: #77CFD9
+    &::before 
+      content: ""
+      position: absolute
+      top: 54px
+      left: 1px
+      width: 0
+      height: 0 
+      border-left: 15px solid transparent     
+      border-top: 15px solid lighten(#77CFD9, 30%)
+    
+    h3 
+      margin-bottom: 0 !important
+      color: white
+      font-weight: 700
+      font-size: 20pt     
+  
+  
+  &__body 
+    display: flex
+    flex-direction: row
+    justify-content: space-between
+    align-items: center
+    p 
+      margin-bottom: 0 !important
+      font-size: 14pt !important
+      font-weight: 600
+    
+    .anchorHeader__btn  
+      a 
+        display: inline-block
+        padding: 0.55rem 1rem       
+        color: #13263F
+        text-align: center    
+        font-weight: 700
+        background-color: #77CFD9
+        transition: all 0.25s ease-in-out
+        &:hover 
+          background-color: $anchorBtn_number_cl
+          color: white
