@@ -65,40 +65,40 @@ export default {
   referencias: [
     {
       referencia:
-        'Congreso de Colombia. (27 de enero de 2006). Ley 1014 de 2006. De fomento a la cultura del emprendimiento. Diario Oficial No. 46.164.',
+        'Congreso de Colombia. (27 de enero de 2006). Ley 1014 de 2006. De fomento a la cultura del emprendimiento. Diario Oficial No. 46.164.  ',
       link:
-        'https://www. secretariasenado.gov.co/senado/basedoc/ley_1014_2006.html',
+        'https://www.secretariasenado.gov.co/senado/basedoc/ley_1014_2006.html',
     },
     {
       referencia:
-        'Gutiérrez, R., Martínez, L., Gómez, M., García, G., Caycedo, M. (2020). Cartilla de comportamiento emprendedor ¡camilo al logro!. Servicio Nacional de Aprendizaje SENA.',
+        'Gutiérrez, R., Martínez, L., Gómez, M., García, G., Caycedo, M. (2020). Cartilla de comportamiento emprendedor ¡camino al logro! Servicio Nacional de Aprendizaje SENA.',
     },
     {
       referencia:
-        'Fernández, A. (2010). Otra vez esa sensación, Capítulo 1: Los sentimientos.',
+        'Fernández, A. (2010). Otra vez esa sensación, Capítulo 1: Los sentimientos. ',
       link:
         'http://catarina.udlap.mx/u_dl_a/tales/documentos/lda/fernandez_f_a/capitulo1.pdf',
     },
     {
-      referencia: 'Ionos. (2018). Brainstorming o lluvia de ideas.',
+      referencia: 'Ionos. (2018). <em>Brainstorming</em> o lluvia de ideas. ',
       link:
         'https://www.ionos.es/startupguide/productividad/brainstorming-o-lluvia-de-ideas/',
     },
     {
-      referencia: 'Martínez, Y. (2018). Habilidad para la toma de decisiones.',
+      referencia: 'Martínez, Y. (2018). Habilidad para la toma de decisiones. ',
       link:
-        'https:// www.eoi.es/blogs/mintecon/2014/05/18/habilidad-para-la-toma-de-decisiones/',
+        'https://www.eoi.es/blogs/mintecon/2014/05/18/habilidad-para-la-toma-de-decisiones/',
     },
     {
       referencia:
-        'Real Academia Española. (2001). Causa. En el diccionario de la lengua española.',
+        'Real Academia Española. (2001). Causa. En el diccionario de la lengua española. ',
       link: 'https://dle.rae.es/causa',
     },
     {
       referencia:
-        'Visión industrial. (2017). Cómo realizar un análisis FODA, y su importancia en la toma de decisiones.',
+        'Visión industrial. (2017). Cómo realizar un análisis FODA, y su importancia en la toma de decisiones. ',
       link:
-        'https:// www. visionindustrial.com.mx/industria/desarrollo-organizacional-3027/como-realizar-un-analisis-foda-y-su-importancia-en-la-toma-de-decisiones',
+        'https://www.visionindustrial.com.mx/industria/desarrollo-organizacional-3027/como-realizar-un-analisis-foda-y-su-importancia-en-la-toma-de-decisiones',
     },
   ],
   glosario: [
@@ -120,12 +120,12 @@ export default {
     {
       termino: 'Decisión',
       significado:
-        'Una decisión es una resolución o determinación que se toma con el propósito de resolver una situación específica..',
+        'Una decisión es una resolución o determinación que se toma con el propósito de resolver una situación específica.',
     },
     {
       termino: 'Emprendimiento',
       significado:
-        'Se define como una manera de pensar y actuar orientada hacia la creación de riqueza. Es una forma de razonar y actuar centrada en las oportunidades, planteada con visión global y llevada a cabo mediante un liderazgo equilibrado y la gestión de un riesgo calculado, su resultado es la creación de valor que beneficia a la empresa, la economía y la sociedad. Fomento a la cultura del emprendimiento (Ley 1014 de 2006)',
+        'Se define como una manera de pensar y actuar orientada hacia la creación de riqueza. Es una forma de razonar y actuar centrada en las oportunidades, planteada con visión global y llevada a cabo mediante un liderazgo equilibrado y la gestión de un riesgo calculado, su resultado es la creación de valor que beneficia a la empresa, la economía y la sociedad. Fomento a la cultura del emprendimiento (Ley 1014 de 2006).',
     },
     {
       termino: 'Herramientas para generar alternativas',
@@ -135,15 +135,15 @@ export default {
     {
       termino: 'Riesgo',
       significado:
-        'Según la norma ISO 31000 - 2018, el Riesgo es el efecto de la incertidumbre sobre los objetivos.',
+        'Según la norma ISO 31000 - 2018, el riesgo es el efecto de la incertidumbre sobre los objetivos.',
     },
   ],
   complementario: [
     {
       texto:
-        'Cartilla comportamiento emprendedor ¡camino al logro! - Gutiérrez, R., Martínez, L., Gómez, M., García, G., y Caycedo, M. (2020). Cartilla comportamiento emprendedor ¡camino al logro!',
+        'Gutiérrez, R., Martínez, L., Gómez, M., García, G., y Caycedo, M. (2020). Cartilla comportamiento emprendedor ¡camino al logro!',
       tipo: 'Libro',
-      link:
+      descarga:
         '/downloads/Anexo_5_Cartilla_comportamiento_emprendedor_camilo_al_logro.pdf',
     },
   ],
@@ -156,6 +156,17 @@ export default {
       },
     ],
     contenidoInstruccional: [
+      {
+        nombre: 'Rafael Neftalí Lizcano Reyes',
+        cargo: 'Asesor pedagógico.',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'María Paula Gómez Franco ',
+        cargo: 'Coordinación Nacional de Emprendimiento.',
+        centro: 'Dirección de Empleo, Trabajo y Emprendimiento.',
+      },
       {
         nombre: 'Genny Andrea García Pereira',
         cargo: 'Coordinación Nacional de Emprendimiento.',
@@ -171,12 +182,7 @@ export default {
         cargo: 'Diseñadora instruccional.',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor pedagógico.',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
+
       {
         nombre: 'Miguel Ricardo Rivera Lizcano',
         cargo: 'Experto temático.',
@@ -224,13 +230,14 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: ' ',
-        cargo: 'Producción audiovisual',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
+
       {
-        nombre: 'Nombre',
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

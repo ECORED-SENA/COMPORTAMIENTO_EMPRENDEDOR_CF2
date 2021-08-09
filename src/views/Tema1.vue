@@ -8,14 +8,16 @@
         span 1
       h1 Proceso de toma de decisiones
 
-    p.mb-5 Aunque existen muchos teorías y esquemas acerca del proceso que realizan todos los seres humanos para tomar una decisión, el siguiente esquema realizado por Martínez (2014), reúne los elementos más importantes:
+    p.mb-5 Aunque existen muchas teorías y esquemas acerca del proceso que realizan todos los seres humanos para tomar una decisión, el siguiente esquema realizado por Martínez (2014), reúne los elementos más importantes:
 
   .container.tarjeta--blanca.px-4.p-md-5.fond1
     .row.justify-content-around.align-items-center.mb-5
       .col-lg-8.col-md-8.justify-content-md-center.align-self-center
         figure
           img.img-500.mb-2(src="@/assets/tema1/img-1.svg")
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.t-b-i    
+
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.t-b-i   
+    p.mb-5 Es importante visualizar el siguiente video, antes de profundizar en cada paso de la toma de decisiones:  
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -30,7 +32,7 @@
                   h1.cc3 1
 
               .crd_03__txt
-                p El primer paso que debe seguir es definir el problema; es necesario identificar el problema o situación que se requiere resolver. Reconocer su naturaleza y determinar por qué tomar una decisión acertada hará una diferencia o generará un impacto.
+                p #[strong El primer paso que debe seguir es definir el problema;] es necesario identificar el problema o situación que se requiere resolver. Reconocer su naturaleza y determinar por qué tomar una decisión acertada hará una diferencia o generará un impacto.
                 p No conocer el problema o analizarlo de manera demasiada amplia, puede bloquear la decisión. Por tal motivo, es necesario delimitar el problema, y determinar que el o los objetivos esperados sean medibles en un tiempo determinado, de tal manera que al momento de tomar la decisión sea posible reconocer qué fue alcanzado con relación a lo esperado.
 
           .col-lg-6 
@@ -106,8 +108,11 @@
               .crd_03__txt
                 p #[strong Selección de la alternativa que llevará a cabo.] Finalmente se llega al punto de tomar la decisión, de elegir la mejor alternativa; después de realizar un ejercicio de evaluación y análisis seguramente será más sencilla la elección. Sin embargo, se deben tener en cuenta unas preguntas finales como:
                 .cajon.color-acento-contenido.p-4.mb-4
-                  p Es importante recabar toda la información que sea necesaria, enfocarse en los datos relevantes y desechar los que no aportan valor.
-                p El tiempo destinado debe ser suficiente, pero sin excederse, ya que puede resultar una tarea desgastante, y postergar demasiado la solución al problema. 
+                  p.mb-1 ¿La alternativa tiene más posibilidades de resolver el problema o lograr la oportunidad?
+                  p.mb-1 ¿Se cuenta con los recursos para ejecutar esta alternativa?
+                  p ¿Cuál sería el riesgo?
+
+                p Hay que valorar que la decisión que tome tendrá unas determinadas consecuencias. Debe asumir que el error es posible y aceptarlo como una oportunidad de mejorar para los procesos futuros. 
 
 
           .col-lg-5.col-sm-8.justify-content-around.align-items-center.img-c 

@@ -39,7 +39,7 @@
               a(href="#3")
                 figure
                   img.p-2(src="@/assets/tema2/img-4.svg") 
-                p.text-bold.text-center Análisis DOFA
+                p.text-bold.text-center Análisis FODA
           .col-md-6.col-lg-3.mb-4
               a(href="#4")
                 figure
@@ -56,8 +56,8 @@
         .col-md-6.mb-4.mb-md-0
          
           p #[strong Lluvia de ideas:] esta herramienta generalmente es utilizada cuando se busca llegar a consensos o tomar decisiones en grupo. Pues permite aprovechar la participación de los integrantes y generar la mayor cantidad de opciones; además motiva a un razonamiento mayor y más imaginativo (Ionos, 2018).
-          p La lluvia de Ideas potencia los procesos creativos, y la generación de alternativas originales que ayudan en la resolución de una situación o problema.
-          p Cómo surge la lluvia de ideas. En el año 1919, Alex Osborn estaba en búsqueda de nuevas ideas; se reunió con un grupo de personas en un ambiente desestructurado e informal, sin jerarquías, así que todos podían opinar y dar a conocer sus ideas sin límites; de esta manera descubrió que se pueden generar mejores soluciones a partir intercambio de ideas entre las personas; aprovechar la capacidad creativa de todo el grupo es una muy buena estrategia a la hora de generar nuevas alternativas. 
+          p La lluvia de ideas potencia los procesos creativos, y la generación de alternativas originales que ayudan en la resolución de una situación o problema.
+          p Cómo surge la lluvia de ideas. En el año 1919, Alex Osborn estaba en búsqueda de nuevas ideas; se reunió con un grupo de personas en un ambiente desestructurado e informal, sin jerarquías, así que todos podían opinar y dar a conocer sus ideas sin límites; de esta manera descubrió que se pueden generar mejores soluciones a partir del intercambio de ideas entre las personas; aprovechar la capacidad creativa de todo el grupo es una muy buena estrategia a la hora de generar nuevas alternativas. 
         .col-md-6.mb-5
           figure
             img(src='@/assets/tema2/img-6.svg')
@@ -108,7 +108,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[strong Anexo.] Ver ejemplo aplicado sobre Lluvia de ideas
+            p #[strong Anexo.] Ver ejemplo aplicado sobre lluvia de ideas
 
     hr          
     #2.row.fond-1.p-5.mb-5
@@ -118,10 +118,10 @@
             a(href="#base")
               .fas.fa-chevron-up
       .row        
-        p #[strong Diagrama de ishikawa:] también conocido como el diagrama de espina de pescado o diagrama de causa y efecto. Permite identificar el problema u oportunidad y visualizar las causas que lo/a generan.
+        p #[strong Diagrama de Ishikawa:] también conocido como el diagrama de espina de pescado o diagrama de causa y efecto. Permite identificar el problema u oportunidad y visualizar las causas que lo/la generan.
         p Es empleado para facilitar el análisis de los problemas y encontrar soluciones factibles a partir de las causas identificadas. Se centra principalmente en el por qué.
          
-    .row.fond1.p-5.align-self-center
+    .row.fond1.p-5.align-self-center.mb-5
         .col-md-5.mb-5.align-self-center
           .ul.lista-ul--color
             li 
@@ -139,11 +139,11 @@
           figure
             img(src='@/assets/tema2/img-8.svg') 
           
-    p Algunas recomendaciones para la utilización de esta herramienta son:
+    p.text-bold Algunas recomendaciones para la utilización de esta herramienta son:
     .row.p-5.align-self-center
         .col-md-7.mb-4.mb-md-0.align-self-center
           figure
-            img(src='@/assets/tema2/img-9.svg') 
+            img.img-400(src='@/assets/tema2/img-9.svg') 
         .col-md-5.mb-5.align-self-center
           .ul.lista-ul--color
             li 
@@ -154,13 +154,13 @@
               p Si existe alguna dificultad se pueden categorizar las causas.
             li 
               i.fas.fa-check
-              p Aplazar el juicio simplemente anotar sin calificar su factibilidad.
+              p Aplazar el juicio, simplemente anotar sin calificar su factibilidad.
 
           a.anexo.mb-4(:href="obtenerLink('/downloads/ejemplo_ishikawa.pdf')" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-pdf.svg")
             .anexo__texto
-              p #[strong Anexo.] Ver ejemplo aplicado de diagrama Ishikawa
+              p #[strong Anexo.] Ver ejemplo aplicado de diagrama Ishikawa.
 
     hr.mb-5  
     #3.row.fond-1.px-5
@@ -172,12 +172,12 @@
       .row        
 
 
-        p #[strong Análisis FODA:] esta herramienta permite realizar un análisis interno (debilidades y fortalezas) y externo (oportunidades y amenazas) teniendo en cuenta todos los factores involucrados en una decisión (Visión industrial, 2017)
+        p #[strong Análisis FODA:] esta herramienta permite realizar un análisis interno (debilidades y fortalezas) y externo (oportunidades y amenazas) teniendo en cuenta todos los factores involucrados en una decisión (Visión industrial, 2017).
         p.mb-5 Al hacer una revisión de la situación actual, promueve la toma de decisiones a través de diferentes alternativas, para definir el escenario futuro que se quiere obtener.
         .row.justify-content-around.align-items-center.mb-5
           .col-lg-10.col-md-10.justify-content-md-center.align-self-center
             figure
-              img.mb-2(src="@/assets/tema2/img-10.svg")
+              img.mb-2(src="@/assets/tema2/img-10-.svg")
 
     .row.justify-content-around.align-items-center
       .col-6.mb-5
@@ -185,7 +185,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[strong Anexo.] Ver ejemplo aplicado de Análisis FODA
+            p #[strong Anexo.] Ver ejemplo aplicado de Análisis FODA.
 
     hr
     #4.row.fond-1.px-5.mb-5
@@ -214,10 +214,10 @@
             p.text-bold ¿Cree que es importante conocer las diferentes herramientas de generación y análisis de alternativas para la toma de decisiones en su vida cotidiana?
           li 
             i.fas.fa-check
-            p.mb-5.text-bold ¿Cómo aplicaría los temas estudiados a su vida cotidiana?
+            p.text-bold ¿Cómo aplicaría los temas estudiados a su vida cotidiana?
           li 
             i.fas.fa-check
-            p ¿Considera que las herramientas que vimos le permitirán generar mayores alternativas al momento de tomar una decisión?
+            p.mb-5.text-bold ¿Considera que las herramientas que vimos le permitirán generar mayores alternativas al momento de tomar una decisión?
         .crd_02
             .crd_02__icon
               figure.px-3

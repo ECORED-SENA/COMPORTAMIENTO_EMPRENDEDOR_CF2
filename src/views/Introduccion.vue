@@ -15,7 +15,7 @@
     br        
     .row.justify-content-around.align-items-center.mb-5
       .col-lg.justify-content-md-center.align-self-center  
-        p Con el desarrollo de este tema podrá conocer la importancia de la toma de decisiones, cómo la elección entre dos o más alternativas, estas pueden traer consecuencias positivas o negativas en su vida cotidiana, así como, potencializar o afectar el éxito de su emprendimiento.
+        p Con el desarrollo de este tema podrá conocer la importancia de la toma de decisiones, como la elección entre dos o más alternativas, estas pueden traer consecuencias positivas o negativas en su vida cotidiana, así como, potencializar o afectar el éxito de su emprendimiento.
         p También conocerá el proceso de toma de decisiones y cuáles son los pasos o fases que le permitirán optar por la alternativa más óptima, fortaleciendo así sus habilidades y capacidades para evaluar y validar la información en el momento de tomar una decisión.
         .cajon.color-acento-contenido.p-4.mb-4
           p Para un mejor aprendizaje, se le recomienda responder a las preguntas y ejercicios de reflexión propuestos en el desarrollo de los contenidos, para ello puede disponer de una bitácora física (cuaderno) o digital. Este será su diario de viaje.
@@ -44,7 +44,7 @@
               .row.mt-3.mx-3
                 p Con frecuencia el error común de los emprendedores es que no son conscientes de que todas y cada una de las acciones que realizan, tienen un precio y por supuesto, generan unos resultados o consecuencias.
   
-                p El éxito de un emprendedor está determinado en gran medida por la calidad de las decisiones que ha tomado y la posibilidad que estas le han ofrecido para explorar nuevas oportunidades
+                p El éxito de un emprendedor está determinado en gran medida por la calidad de las decisiones que ha tomado y la posibilidad que estas le han ofrecido para explorar nuevas oportunidades.
 
           
             .col-md-6
