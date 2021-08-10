@@ -8,7 +8,7 @@ var _default = {
   global: {
     componenteFormativo: 'Toma de decisiones',
     descripcionCurso: 'Emprender supone tomar decisiones permanentemente; las decisiones siempre tendrán un impacto a nivel personal u organizacional, y las consecuencias derivadas pueden ser positivas o negativas. En esta unidad conocerá los pasos para tomar una decisión e identificará las herramientas más utilizadas para la generación de ideas y soluciones.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal2.png'),
+    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png')
   },
   menuPrincipal: {
