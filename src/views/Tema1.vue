@@ -12,7 +12,7 @@
 
   .container.tarjeta--blanca.px-4.p-md-5.fond1
     .row.justify-content-around.align-items-center.mb-5
-      .col-lg-8.col-md-8.justify-content-md-center.align-self-center
+      .col-lg-8.col-md-8.justify-content-md-center.align-self-center(data-aos="zoom-in")
         figure
           img.img-500.mb-2(src="@/assets/tema1/img-1.svg")
 
@@ -21,7 +21,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    .row.justify-content-around.align-items-center.mb-5
+    .row.justify-content-around.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-10.col-md-11.justify-content-md-center.align-self-center  
         h4.l-n Pasos para la toma de decisiones:
         .row
@@ -39,7 +39,7 @@
             figure
                 img.img-450.mb-2(src="@/assets/tema1/img-2.svg")
     hr.mb-5            
-    .row.justify-content-around.align-items-center.mb-5
+    .row.justify-content-around.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-10.col-md-11.justify-content-md-center.align-self-center  
         .row.mb-5 
           .col-lg-6 
@@ -56,9 +56,9 @@
 
           .col-lg-6 
             figure
-                img.img-450.mb-2(src="@/assets/tema1/img-3.svg")
+                img.img-450.mb-2(src="@/assets/tema1/img-3.png")
     hr.mb-5 
-    .row.justify-content-around.align-items-center.mb-5
+    .row.justify-content-around.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-10.col-md-11.justify-content-md-center.align-self-center       
         .row.mb-5 
           .col-12
@@ -96,7 +96,7 @@
               .crd_03__txt
                 p Estas pueden ayudarle a generar alternativas de valor. Cuantas más personas participen en el proceso más aspectos se tendrán en cuenta y más ideas podremos obtener.
     hr.mb-5  
-    .row.justify-content-around.align-items-center.mb-5
+    .row.justify-content-around.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-10.col-md-11.justify-content-md-center.align-self-center                  
         .row.mb-5 
           .col-lg-7 
@@ -119,7 +119,7 @@
             figure.px-3
                 img.img-450.mb-2(src="@/assets/tema1/img-5-.svg")
     hr.mb-5  
-    .row.justify-content-around.align-items-center.mb-5
+    .row.justify-content-around.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-10.col-md-11.justify-content-md-center.align-self-center     
         .row.mb-5 
           .col-lg-7 
@@ -136,8 +136,9 @@
             figure.px-3
                 img.img-450.mb-2(src="@/assets/tema1/img-6--.png")
     hr.mb-5  
-    .row.mb-5      
-      .col-lg-6.col-sm-8.justify-content-around.align-items-center.img-c 
+    .row.mb-5    
+      .col-lg-6.col-sm-8.justify-content-around.align-items-center.img-c(data-aos="fade-up")
+
         figure.px-3.py-3
             img.img-501.mb-2(src="@/assets/tema1/img-9.png")
       .col-lg-5.col-sm-8.justify-content-around.align-items-center.img-c.align-self-center 

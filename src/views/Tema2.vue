@@ -27,22 +27,22 @@
         .row
           .col-md-6.col-lg-3.mb-4
               a(href="#1")
-                figure
+                figure(data-aos="zoom-in")
                   img.p-2(src="@/assets/tema2/img-2.svg") 
                 p.text-bold.text-center Lluvia de ideas
           .col-md-6.col-lg-3.mb-4
               a(href="#2")
-                figure
+                figure(data-aos="zoom-in")
                   img.p-2(src="@/assets/tema2/img-3.svg") 
                 p.text-bold.text-center Diagrama de Ishikawa
           .col-md-6.col-lg-3.mb-4
               a(href="#3")
-                figure
+                figure(data-aos="zoom-in")
                   img.p-2(src="@/assets/tema2/img-4.svg") 
                 p.text-bold.text-center Análisis FODA
           .col-md-6.col-lg-3.mb-4
               a(href="#4")
-                figure
+                figure(data-aos="zoom-in")
                   img.p-2(src="@/assets/tema2/img-5.svg") 
                 p.text-bold.text-center Reflexión
 
@@ -206,7 +206,7 @@
 
     hr.mb-5  
     .row.mb-5.fondo-i     
-      .col-lg-5.col-sm-8.justify-content-around.align-items-center.img-c.align-self-center 
+      .col-lg-5.col-sm-8.justify-content-around.align-items-center.img-c.align-self-center(data-aos="fade-up") 
         p Para finalizar le invito a que reflexione en relación con las siguientes preguntas:
         .ul.lista-ul--color
           li 
@@ -226,12 +226,12 @@
             .crd_02__txt.p-2
               p.text-white Consigne sus respuestas en la bitácora, esto le permitirá realizar un mejor análisis de los temas estudiados. 
        
-      .col-lg-6.col-sm-8.justify-content-around.align-items-center.img-c.mb-5
+      .col-lg-6.col-sm-8.justify-content-around.align-items-center.img-c.mb-5(data-aos="fade-up")
         figure.px-3.py-3
             img.img-501.mb-2(src="@/assets/tema2/img-12.svg")
       .row.justify-content-around.align-items-center
         .col-lg-10
-          .tarjeta.color-secundario.p-3.mb-5.fond-des
+          .tarjeta.color-secundario.p-3.mb-5.fond-des(data-aos="fade-up")
             .row.justify-content-around.align-items-center
               .col-3.col-sm-2.col-lg-1
                 img(src="@/assets/tema2/img-14.svg")
