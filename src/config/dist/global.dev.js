@@ -58,7 +58,7 @@ var _default = {
   },
   referencias: [{
     referencia: 'Congreso de Colombia. (27 de enero de 2006). Ley 1014 de 2006. De fomento a la cultura del emprendimiento. Diario Oficial No. 46.164.  ',
-    link: 'https://www.secretariasenado.gov.co/senado/basedoc/ley_1014_2006.html'
+    link: 'http://www.secretariasenado.gov.co/senado/basedoc/ley_1014_2006.html'
   }, {
     referencia: 'Gutiérrez, R., Martínez, L., Gómez, M., García, G., Caycedo, M. (2020). Cartilla de comportamiento emprendedor ¡camino al logro! Servicio Nacional de Aprendizaje SENA.'
   }, {

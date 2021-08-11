@@ -108,7 +108,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[strong Anexo.] Ver ejemplo aplicado sobre lluvia de ideas
+            p #[strong Anexo.] Ver ejemplo aplicado sobre lluvia de ideas.
 
     hr          
     #2.row.fond-1.p-5.mb-5

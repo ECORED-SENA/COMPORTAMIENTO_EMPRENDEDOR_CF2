@@ -67,7 +67,7 @@ export default {
       referencia:
         'Congreso de Colombia. (27 de enero de 2006). Ley 1014 de 2006. De fomento a la cultura del emprendimiento. Diario Oficial No. 46.164.  ',
       link:
-        'https://www.secretariasenado.gov.co/senado/basedoc/ley_1014_2006.html',
+        'http://www.secretariasenado.gov.co/senado/basedoc/ley_1014_2006.html',
     },
     {
       referencia:
