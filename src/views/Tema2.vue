@@ -181,7 +181,7 @@
 
     .row.justify-content-around.align-items-center
       .col-6.mb-5
-        a.anexo.mb-4(:href="obtenerLink('/downloads/ejemplo_FODA.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/ejemplo_FODA2.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
