@@ -20,7 +20,8 @@
     p.mb-5 Es importante visualizar el siguiente video, antes de profundizar en cada paso de la toma de decisiones:  
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ddV7lnl5jHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
+
     .row.justify-content-around.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-10.col-md-11.justify-content-md-center.align-self-center  
         h4.l-n Pasos para la toma de decisiones:
