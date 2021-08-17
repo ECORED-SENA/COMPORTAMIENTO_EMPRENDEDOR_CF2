@@ -165,17 +165,17 @@ export default {
       {
         nombre: 'María Paula Gómez Franco ',
         cargo: 'Coordinación Nacional de Emprendimiento.',
-        centro: 'Dirección de Empleo, Trabajo y Emprendimiento.',
+        centro: 'Dirección de Empleo, Trabajo y Emprendimiento - SENA',
       },
       {
         nombre: 'Genny Andrea García Pereira',
         cargo: 'Coordinación Nacional de Emprendimiento.',
-        centro: 'Dirección de Empleo, Trabajo y Emprendimiento.',
+        centro: 'Dirección de Empleo, Trabajo y Emprendimiento - SENA',
       },
       {
         nombre: 'Luisa Fernanda Martínez Vega',
         cargo: 'Coordinación Nacional de Emprendimiento.',
-        centro: 'Dirección de Empleo, Trabajo y Emprendimiento.',
+        centro: 'Dirección de Empleo, Trabajo y Emprendimiento - SENA',
       },
       {
         nombre: 'Dayra Maritza Paz Calderón',
@@ -235,7 +235,65 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
-
+      {
+        nombre: 'Adriana Marcela Suárez Eljure',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Arnulfo Beltrán Mojica',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Daniela Muñoz Bedoya',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Jessica Moreno Realpe',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Oleg Litvin',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Víctor Raúl Cárdenas Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy María Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
       {
         nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',

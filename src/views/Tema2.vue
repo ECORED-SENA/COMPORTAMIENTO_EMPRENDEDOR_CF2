@@ -24,7 +24,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/ddV7lnl5jHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/zPI31rsyf8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)       
 
     #base.row.justify-content-around.align-items-center
       .row.col-10.fond4.justify-content-around.align-items-center.mb-5.d-flex.clearfix
