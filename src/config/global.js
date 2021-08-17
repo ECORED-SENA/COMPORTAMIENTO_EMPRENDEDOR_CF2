@@ -158,39 +158,39 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor pedagógico.',
+        cargo: 'Asesor metológico y pedagógico',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'María Paula Gómez Franco ',
-        cargo: 'Coordinación Nacional de Emprendimiento.',
+        cargo: 'Coordinación Nacional de Emprendimiento',
         centro: 'Dirección de Empleo, Trabajo y Emprendimiento - SENA',
       },
       {
         nombre: 'Genny Andrea García Pereira',
-        cargo: 'Coordinación Nacional de Emprendimiento.',
+        cargo: 'Coordinación Nacional de Emprendimiento',
         centro: 'Dirección de Empleo, Trabajo y Emprendimiento - SENA',
       },
       {
         nombre: 'Luisa Fernanda Martínez Vega',
-        cargo: 'Coordinación Nacional de Emprendimiento.',
+        cargo: 'Coordinación Nacional de Emprendimiento',
         centro: 'Dirección de Empleo, Trabajo y Emprendimiento - SENA',
       },
       {
         nombre: 'Dayra Maritza Paz Calderón',
-        cargo: 'Diseñadora instruccional.',
+        cargo: 'Diseñadora instruccional',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
 
       {
         nombre: 'Miguel Ricardo Rivera Lizcano',
-        cargo: 'Experto temático.',
-        centro: 'Regional Huila',
+        cargo: 'Experto temático',
+        centro: 'SENA - Regional Huila',
       },
       {
         nombre: 'Claudia Milena Hernández Naranjo',
-        cargo: 'Diseñador Instruccional.',
+        cargo: 'Diseñadora instruccional',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
