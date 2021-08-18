@@ -103,7 +103,7 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Alternativas ',
+      termino: 'Alternativas',
       significado:
         'Posibilidad de optar o elegir entre dos o más opciones, que pueden materializarse para dar respuesta a una situación o problema determinados.',
     },

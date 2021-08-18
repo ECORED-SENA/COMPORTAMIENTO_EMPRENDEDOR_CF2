@@ -8,7 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-    p.mb-4 A continuación, presentaremos el video que hará una breve introducción del presente componente formativo
+    p.mb-4 A continuación, presentaremos el video que hará una breve introducción del presente componente formativo:
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/J5JP7YxPqAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)        
